@@ -1,0 +1,14 @@
+{
+  "name": "npm-lazy",
+  "version": "1.0.0",
+  "description": "Its an shadow effect module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "neils bohra",
+  "license": "ISC"
+}
