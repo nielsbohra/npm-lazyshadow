@@ -32,3 +32,6 @@ lazyshadow support 2 options, both of which are optional:
  
 ## This repo is for open source 
     anyone can add the features they like, Thank you ;)
+
+### Helpful Emoji 🐨 💪 🏁 💰 💯 🦉 📜 💣 👨‍💼 🚨
+    use these emojies white contributing
